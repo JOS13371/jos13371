@@ -6,8 +6,8 @@
 
 ### Latest Projects :
 
-<img align="left" alt="Hoo Bank" width="26px" src="https://cdn3.f-cdn.com/files/download/176604153/Desktop%20-%201.jpg" style="padding-right:10px;" 
-/>
+<img align="left" alt="Hoo Bank" width="250px" height="250px" src="https://cdn3.f-cdn.com/files/download/176604153/Desktop%20-%201.jpg" style="padding-right:10px;" 
+/><br>
 
 
 ### Languages and Tools :
