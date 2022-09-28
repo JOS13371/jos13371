@@ -32,7 +32,7 @@
 
 ### Latest Projects :
 
-<img align="left" alt="Hoo Bank"  src="https://cdn3.f-cdn.com/files/download/176604424/landing%20page.jpg" style="padding-right:10px;" 
+<img align="left" alt="Hoo Bank" width="250px"  src="https://cdn3.f-cdn.com/files/download/176604424/landing%20page.jpg" style="padding-right:10px;" 
 /><br>
 
 
