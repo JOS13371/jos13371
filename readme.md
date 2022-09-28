@@ -2,10 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3500&pause=500&width=435&lines=Front-End+Developer;React+Developer;Javascript+Developer)](https://git.io/typing-svg)
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3 and blockchain
-- ⚡ Hobbies: I love to listen music and play outdoor sports
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3500&pause=500&width=435&lines=Front-End+Developer;React+Developer;Javascript+Developer)]
 
 ### Languages and Tools :
 
