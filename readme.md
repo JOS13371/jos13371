@@ -25,4 +25,6 @@
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hussain/)
-[![twitter](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/CoderGhost37)
+[![freelancer](https://img.shields.io/badge/freelancer-0A66C2?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.facebook.com/jos1337/)
+[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jos1337/)
+
