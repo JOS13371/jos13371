@@ -2,8 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Web+Developer;Blockchain+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3500&pause=500&width=435&lines=Front-End+Developer;React+Developer;Javascript+Developer)](https://git.io/typing-svg)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and blockchain
 - ⚡ Hobbies: I love to listen music and play outdoor sports
@@ -35,5 +34,5 @@
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KushagraMathur37)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hussain/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CoderGhost37)
