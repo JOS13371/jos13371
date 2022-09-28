@@ -30,9 +30,5 @@
 [![instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/jos1337/)
 
 
-### Latest Projects :
-
-<img align="left" alt="Hoo Bank" width="250px"  src="https://cdn3.f-cdn.com/files/download/176604424/landing%20page.jpg" style="padding-right:10px;" 
-/><br>
-
+--- ### Latest Projects :
 
