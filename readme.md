@@ -4,12 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3500&pause=500&width=435&lines=Front-End+Developer;React+Developer;Javascript+Developer)
 
-### Latest Projects :
-
-<img align="left" alt="Hoo Bank" width="250px" height="250px" src="https://cdn3.f-cdn.com/files/download/176604153/Desktop%20-%201.jpg" style="padding-right:10px;" 
-/><br>
-
-
 ### Languages and Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -34,5 +28,11 @@
 [![freelancer](https://img.shields.io/badge/freelancer-0A66C2?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/Jos13371)
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jos1337/)
 [![instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/jos1337/)
+
+
+### Latest Projects :
+
+<img align="left" alt="Hoo Bank" width="250px" height="250px" src="https://cdn3.f-cdn.com/files/download/176604153/Desktop%20-%201.jpg" style="padding-right:10px;" 
+/><br>
 
 
