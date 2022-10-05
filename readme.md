@@ -20,6 +20,8 @@
 <br />
 <br />
 
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOS13371&hide=contribs,prs)
+
 ---
 
 
