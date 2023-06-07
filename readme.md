@@ -23,6 +23,7 @@
 ### Stats :
 
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOS13371&count_private=true&hide=contribs,prs)
+![Youssef's GitHub Views](https://komarev.com/ghpvc/?username=JOS13371))
 
 <br />
 <br />
