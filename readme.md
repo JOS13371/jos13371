@@ -36,4 +36,4 @@
 [![instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/jos1337/)
 
 
-![Youssef's GitHub Views](https://komarev.com/ghpvc/?username=JOS13371))
+![Youssef's GitHub Views](https://komarev.com/ghpvc/?username=JOS13371)
