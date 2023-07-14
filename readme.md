@@ -34,6 +34,3 @@
 [![freelancer](https://img.shields.io/badge/freelancer-0A66C2?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/Jos13371)
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jos1337/)
 [![instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/jos1337/)
-
-
-![Youssef's GitHub Views](https://komarev.com/ghpvc/?username=JOS13371)
