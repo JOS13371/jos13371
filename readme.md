@@ -22,7 +22,7 @@
 
 ### Stats :
 
-![Youssef's GitHub stats](https://stats-omega-eight.vercel.app/api?username=jos13371&theme=dark&show_icons=true&count_private=true&hide=issues,stars)
+![Youssef's GitHub stats](https://stats-omega-eight.vercel.app/api?username=jos13371&theme=dark&show_icons=true&count_private=true&hide=issues,stars,)
 
 <br />
 <br />
