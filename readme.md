@@ -2,7 +2,7 @@
 
 <h3>I am a</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3500&pause=500&width=435&lines=Front-End+Developer;React+Developer;Javascript+Developer)
+Full Stack Developer
 
 ### Languages and Tools :
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
